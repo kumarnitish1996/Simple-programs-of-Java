@@ -1,5 +1,5 @@
 // This program is an example of Continue Statement
-// Date - 23/03/2017/03/2017
+// Date - 23/03/2017
 // By - Nitish Tiwari
 
 public class ContinueExample{
