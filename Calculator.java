@@ -13,7 +13,7 @@ class Calculator{
         System.out.println("3. MULTIPLICATION ");
         System.out.println("4. DIVISION");
         System.out.print("ENTER YOUR CHOICE :\t ");
-        int i=s.nextInt();
+        int i = s.nextInt();
            
         System.out.print("ENTER FIRST NUMBER :\t");
         float a=s.nextInt();
@@ -43,6 +43,7 @@ class Calculator{
                 else
 				{
                     result = a/b;
+					break;
 				}
             default:
                 System.out.println("YOU HAVE ENTERED A WRONG CHOICE");
