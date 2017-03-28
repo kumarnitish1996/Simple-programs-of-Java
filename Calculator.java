@@ -16,10 +16,10 @@ class Calculator{
         int i = s.nextInt();
            
         System.out.print("ENTER FIRST NUMBER :\t");
-        float a=s.nextInt();
+        float a = s.nextInt();
            
         System.out.print("ENTER SECOND NUMBER :\t");
-        float b=s.nextInt();
+        float b = s.nextInt();
            
         double result=0;	//'result' will store the result of operation
            
