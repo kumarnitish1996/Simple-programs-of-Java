@@ -1,3 +1,6 @@
+// This program draw a triangle pattern that can be changed by changing the conditions of for loop
+// By - Nitish Tiwari
+
 import java.util.Scanner;
 public class pattern{
 	public static void main(String args[]){
