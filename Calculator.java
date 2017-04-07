@@ -1,5 +1,4 @@
 // This program perform simple Arithmetic operations using Switch Case
-// Date - 25/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

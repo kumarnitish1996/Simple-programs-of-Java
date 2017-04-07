@@ -1,5 +1,4 @@
 // This program shows how to create & call constructors
-// Date - 30/03/2017
 // By - Nitish Tiwari
 
 class constructor

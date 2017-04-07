@@ -1,5 +1,4 @@
 // This program compares three integers & find the greatest out of them
-// Date - 24/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

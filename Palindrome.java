@@ -1,5 +1,4 @@
 // This program is to check whether a given string is Palindrome or not
-// Date - 23/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

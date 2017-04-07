@@ -1,5 +1,4 @@
 // This program is an example of SwitchCase
-// Date - 27/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

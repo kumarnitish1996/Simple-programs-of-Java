@@ -1,5 +1,4 @@
 // This program swap two integers without using third variable
-// Date - 23/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

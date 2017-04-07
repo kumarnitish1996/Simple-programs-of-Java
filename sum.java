@@ -1,5 +1,4 @@
 // This program perform simple Addition of two integers
-// Date - 22/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

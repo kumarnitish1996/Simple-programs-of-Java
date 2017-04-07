@@ -1,9 +1,8 @@
-// This program prints a message
-// Date - 22/03/2017
+// This program simply prints a message
 // By - Nitish Tiwari
 
 public class HelloWorld{
 	public static void main(String args[]){
-		System.out.println("Hello World");
+		System.out.println("Hello World ");
 	}	
 }

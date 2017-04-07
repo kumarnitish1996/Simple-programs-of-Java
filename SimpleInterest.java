@@ -1,5 +1,4 @@
 // This program calculate Simple Interest
-// Date - 22/03/2017
 // By - Nitish Tiwari
 
 import java.util.Scanner;

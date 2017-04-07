@@ -1,5 +1,4 @@
-// This program is an example of ifElse statemnt
-// Date - 23/03/2017
+// This program is an example of ifElse statement
 // By - Nitish Tiwari
 
 import java.util.Scanner;
