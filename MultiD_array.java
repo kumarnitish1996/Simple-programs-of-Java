@@ -1,5 +1,5 @@
 // This program shows how to implement multi-dimensional Array
-// By - Nitish Tiwar
+// By - Nitish Tiwari
 
 import java.util.Scanner;
 
